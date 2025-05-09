@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ahoekdev
+- 👀 I’m interested in web development, music and mountain hiking
+- 🌱 I’m currently learning API engineering
