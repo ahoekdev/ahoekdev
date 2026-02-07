@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ahoekdev
 - 👀 I’m interested in web development 🕸️, music 🎸 and mountain hiking ⛰️
-- 👨‍🎓 I’m currently learning Python 🐍
+- 👨‍🎓 I’m currently learning Python 🐍 and working with NeoVim ⌨️
